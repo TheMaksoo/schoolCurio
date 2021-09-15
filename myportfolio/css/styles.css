@@ -1,0 +1,138 @@
+{
+	box-sizing: border-box;
+	margin: -0px;
+	
+}
+.background {
+	background: #f6f5f7;
+}
+
+.global{ 
+    font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	margin: 5px 5px 5px;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+h2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+p {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+	margin: 20px 0 30px;
+}
+
+li { 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-size: 20px;
+
+}
+
+ul { 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-size: 14px;
+
+}
+span {
+	font-size: 12px;
+}
+
+a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-size: 20px;
+}
+
+.topnav {
+	padding: 15px 15px 0px;
+	background: -webkit-linear-gradient(to right, #09627e, #086918);
+	background: linear-gradient(to right, #09627e, #086918);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0 0;
+}
+
+.topnav a {
+ 	float: right;
+  	text-align: center;
+  	text-decoration: none;
+  	border-radius: 20px;
+	border: 1.5px solid #09637e00;
+	background-color: #09637e00;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0px 15px 15px;
+	letter-spacing: 1px;
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+	border-radius: 20px;
+	border: 1.5px solid #000000;
+	background-color: #086918;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0px 15px 15px;
+	letter-spacing: 1px;
+}
+.container {
+	background-color: #f6f5f7;
+	border-radius: 20px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	overflow: hidden;
+	max-width: 70%;
+	min-height: 60px;
+	padding: 15px 15px 15px;
+	margin: 25px auto
+	
+}{
+	box-sizing: border-box;
+	margin: -0px;
+	
+}
+
+.container2 {
+	background-color: #7b7b7b;
+	padding: 15px 15px 15px;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.row {
+	background-color: #7b7b7b;
+  	display: flex;
+	float: left;
+	padding: 15px 15px 15px;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
