@@ -18,10 +18,13 @@
 				<a href="/myportfolio/index.html"><img src="/myportfolio/img/Maxpfp.jpg"  alt="Max pfp" style="border-radius: 20px;  padding: 10px 10px 10px; margin-bottom: 5px;	width:40px; height:40px; background-color: #303136;"></a>
 			</div>
 			<div class="topnav">
-				<a href="index.html">My Portfolio</a>
-				<a href="hobbies.html">Hobbies</a>
-				<a href="projects.html">Projects</a>
-				<a href="aboutme.html">About me</a>
-				<a href="playlist.html">Playlist</a>
-				<a href="groceries.html">Groceries</a>
+				<a href="index.php">My Portfolio</a>
+				<a href="hobbies.php">Hobbies</a>
+				<a href="projects.php">Projects</a>
+				<a href="aboutme.php">About me</a>
+				<a href="playlist.php">Playlist</a>
+				<a href="groceries.php">Groceries</a>
 			</div>
+		</div>	
+	</body>
+</html>	
