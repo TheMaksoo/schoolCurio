@@ -32,7 +32,9 @@
                             <a href="playlist.php">Playlist</a>
                             <p>Webpagina met nu mijn meest geluisterde nummers.</p>
                             <a href="groceries.php">Groceries</a>
-                            <p>Webpagine met mijn boodshappen...</p>
+                            <p>Webpagina met mijn boodshappen...</p>
+                            <a href="/myportfolio/song/bungee_gum.html">Favorite song</a>
+                            <p>Webpagine / medial speler met een nummer.</p>
                         </div>
                     </div>
                 </div>

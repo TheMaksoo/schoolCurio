@@ -1,0 +1,46 @@
+
+#audio {
+	visibility: hidden;
+}
+
+.image {
+	width: 315px;
+	height: 315px;
+	margin-bottom: 20px;
+}
+
+#progress {
+	width: 4px;
+	height: 4px;
+	background: #9DA2AB;
+	transition: width .1s ease-in-out;
+	margin: -5px 0px 0px;
+}
+
+.global {
+	font-family: MD Primer Bold,Rubik,Lato,Lucida Grande,Lucida Sans Unicode,Tahoma,Sans-Serif;
+    font-style: normal;
+    background: #0C0C0D;
+    color: 9DA2AB
+}
+.top {
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	width: 60%;
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	text-align: center;
+}
+
+
+.musicButton { 
+	background-color: #0C0C0D;
+	color: white;
+	padding: 15px;
+	font-size: 20px;
+	border-radius:50%;
+	border: none;
+	cursor: pointer;
+	margin-bottom: 15px;
+}

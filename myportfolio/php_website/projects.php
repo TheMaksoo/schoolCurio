@@ -10,7 +10,8 @@
             </div>
             <div class="container">
                 <h2>Mijn projecten.</h2>
-                <ul>
+                <ol>
+                    <li>Mediaplayer</li>
                     <li>Portfolio in php</li>
                     <li>Portfolio</li>
                     <li>Micro:bit</li>
@@ -23,7 +24,7 @@
                     <li>Discord bot Solyx</li>
                     <li>Discord bot Snyder</li>
                     <li>Discord bot Ducky</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </body>

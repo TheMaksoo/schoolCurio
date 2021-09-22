@@ -24,6 +24,7 @@
 				<a href="aboutme.php">About me</a>
 				<a href="playlist.php">Playlist</a>
 				<a href="groceries.php">Groceries</a>
+				<a href="/myportfolio/song/bungee_gum.html">Song</a>
 			</div>
 		</div>	
 	</body>
