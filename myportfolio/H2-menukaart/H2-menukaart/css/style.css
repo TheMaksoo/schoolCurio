@@ -1,0 +1,24 @@
+header{
+    background: #38369A;
+}
+footer{
+    background: #38369A ;
+}
+main{
+    background: #90EE90;
+}
+h1{
+    font-size: 28px;
+}
+h2{
+    font-size: 26px;
+}
+li{
+    font-size: 20px;
+    color: dimgrey;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+

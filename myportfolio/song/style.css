@@ -37,10 +37,14 @@
 .musicButton { 
 	background-color: #0C0C0D;
 	color: white;
-	padding: 15px;
+	padding: 4px;
 	font-size: 20px;
 	border-radius:50%;
 	border: none;
 	cursor: pointer;
 	margin-bottom: 15px;
+}
+
+.musicButton:hover { 
+	color: #55575C;
 }
