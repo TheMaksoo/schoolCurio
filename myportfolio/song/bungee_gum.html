@@ -3,6 +3,8 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script type="text/javascript" src="lyricer.min.js"></script>
+		<link rel="stylesheet" href="lyricer.min.css">
 		<title>Bungee Gum</title>
 	</head>
 
@@ -27,13 +29,16 @@
 				</div>
 				<div id="progress" style="width: 0.0%;">
 				</div>
+				<div id="lyricer"></div>
 			</div>
 		</div>
 
 		<script>
+			// hide button B
 			var x = document.getElementById("buttonB");
 			x.style.display = "none";
-
+			document.getElementById('audio').pause()
+			// switch between buttons and play / pause audio
 			function playPause() {
 			var x = document.getElementById("buttonA");
 			if (x.style.display === "none") 
@@ -85,7 +90,20 @@
 			  }
 			}
 
-			
+			function togglePlay (e) {
+				e = e || window.event;
+				var btn = e.target;
+
+				if (!audio.paused) {
+					btn.classList.remove('active');
+					audio.pause();
+					isPlaying = false;
+				} else {
+					btn.classList.add('active');
+					audio.play();
+					isPlaying = true;
+				}
+			}
 
 			var audio = document.getElementById("audio");
 
@@ -122,5 +140,6 @@
 				}
 			}, false);
 		</script>
+		
 
 		
