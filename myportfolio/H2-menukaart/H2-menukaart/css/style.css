@@ -1,3 +1,4 @@
+    
 header{
     background: #38369A;
 }
@@ -21,4 +22,12 @@ a{
     color: white;
     text-decoration: none;
 }
+ul li img{
+    width: 60px;
+}
+
+body{
+    background: #38369A;
+}
+
 
