@@ -158,8 +158,8 @@
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
-  letter-spacing:1px
-
+  letter-spacing:1px;
+  display:inline;
 
 }
 .site-footer a
