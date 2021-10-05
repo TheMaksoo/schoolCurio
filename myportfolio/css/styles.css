@@ -17,6 +17,12 @@
 	flex-direction: column;
 }
 
+.global h2 {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
 .global p {
 	display: flex;
 

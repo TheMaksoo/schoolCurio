@@ -9,7 +9,7 @@
                 <h2>Mijn favoriete liedjes</h2>
             </div>
             <div class="container">
-            <h3>Dit zijn mijn 5 favoritete liedjes:</h3>
+            <h2>Dit zijn mijn 5 favoritete liedjes:</h2>
             <ul>
                 <li><a href="/myportfolio/song/bungee_gum.html">Bungee Gum - Haarper</a></li>
                 <li>MARCELINE - Lil God Dan</li>

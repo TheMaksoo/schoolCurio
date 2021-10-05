@@ -19,6 +19,7 @@
                     <li>I<3DICE</li>
                     <li>Smart City</li>
                     <li>fouten.index.html<li>
+                    <li>flex.index.html</li>
                     <li>Website E&E</li>
                     <li>Website Rio</li>
                     <li>Discord bot Solyx</li>
