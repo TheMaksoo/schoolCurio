@@ -50,7 +50,7 @@ function uidExcists($conn, $username, $email) {
     $sql = "SELECT * FROM users WHERE usersUid = ? OR usersEmail = ?;";
     $statement = mysqli_stmt_init($conn);
     if (!mysqli_stmt_prepare($statement, $sql)) {
-        header("location: loginpage.php?error=statementfailed");
+        header("location: ../loginpage.php?error=statementfailed");
         exit();
     }
 
@@ -73,7 +73,7 @@ function createUser($conn, $name, $email, $username, $password) {
     $sql = "INSERT INTO users (usersName, usersEmail, usersUid, usersPwd) VALUES (?, ?, ?, ?);";
     $statement = mysqli_stmt_init($conn);
     if (!mysqli_stmt_prepare($statement, $sql)) {
-        header("location: loginpage.php?error=statementfailed");
+        header("location: ../loginpage.php?error=statementfailed");
         exit();
     }
 
