@@ -1,0 +1,75 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+  
+  h1{
+      text-align: center;
+  }
+  
+  .banner {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+  nav{
+      display: flex;
+      justify-content: space-between;
+    }
+  
+  nav a{
+      background-color: orange;
+      padding: 10px;
+      margin: 10px;
+      color: #FFFFFF; 
+      text-decoration: none;
+  }
+  
+  main{
+      display: flex;
+      flex-direction:row;
+      justify-content:space-between;
+  }
+  
+  main h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .dieren{
+      text-align: center;
+      background-color: orange;
+      width: 200px;
+  
+  }
+  
+  .dieren img{
+    width: 150px;
+    
+  }
+  
+  footer{
+      display: flex;
+      justify-content: space-around;
+      margin-top: 50px;
+      align-items: center;
+  
+  
+  }
+  
+  footer a{
+      background-color: orange;
+      padding: 10px;
+      margin: 10px;
+      color: #FFFFFF; 
+      text-decoration: none;
+  }
+  
+  footer h3{
+    margin: 0px;
+  }
+  
+  footer p{
+    margin: 0px;
+  }
