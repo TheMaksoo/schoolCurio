@@ -22,7 +22,7 @@
 						<li><a href="https://github.com/Moheax/">Github</a></li>
 						<li><a href="https://nl.linkedin.com/in/max-van-lierop-1567081bb">LinkedIn</a></li>
 						<li><a href="https://solyxbot.webflow.io/">Solyx</a></li>
-						<li><a href="/myportfolio/privacy-policy.html">Privacy Policy</a></li>
+						<li><a href="../privacy-policy.html">Privacy Policy</a></li>
 					</ul>
 				</div>
 				<hr>

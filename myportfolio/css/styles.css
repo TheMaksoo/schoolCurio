@@ -1,6 +1,9 @@
 /* Background */
 .background {
-	background: #1C1E21;
+	background-image: url('../img/cover-image.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
 }
 
 /* Global settings. */
@@ -76,7 +79,7 @@
 	text-decoration: none;
 	border-radius: 20px;
 	border: 1.5px solid #09637e00;
-	background-color: #303136;
+	background-color:#1C1E21;
 	color: #FFFFFF;
 	font-size: 14px;
 	font-weight: bold;
@@ -106,6 +109,7 @@
 }
 
 .container2 {
+	background-color:#1C1E21;
 	border-radius: 15px;
   	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 	max-width: 70%;
@@ -129,7 +133,6 @@
   font-size: 16px;
   margin-top: 5px;
   letter-spacing: 0.1px;
-  background-color:#1C1E21;
   padding:15px 0 20px;
   font-size:15px;
   line-height:24px;
@@ -243,7 +246,7 @@
 }
 
 /* drop down button */
-.dropbutton {
+.accordion {
 	background-color: #1e1f22;
 	color: white;
 	padding: 16px;
@@ -254,14 +257,14 @@
 	margin:  15px;
 
 }
-.dropbutton span {
+.accordion span {
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
 	transition: 0.5s;
 }
   
-.dropbutton span:after {
+.accordion span:after {
 	content: '\00bb';
 	position: absolute;
 	opacity: 0;
@@ -270,26 +273,25 @@
 	transition: 0.5s;
 }
   
-.dropbutton:hover span {
+.accordion:hover span {
 	padding-right: 25px;
 }
   
-.dropbutton:hover span:after {
+.accordion:hover span:after {
 	opacity: 1;
 	right: 0;
 }
 
-.dropdown {
+.accordion {
 	position: relative;
 	display: inline-block;
 }
 
-.dropdown-content{
-	display: none;
-	position: absolute;
-	background-color: #f9f9f9;
+.panel{
+	overflow: hidden;
+	max-height: 0;
 	min-width: 160px;
-	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	transition: max-height 0.8s ease-out;
 }
 
 /* login page button */
@@ -319,7 +321,7 @@ button:focus {
 button.ghost {
 	border-radius: 20px;
 	border: 1px solid #1e1f22;
-	background-color: #1e1f22;
+	background-color:#1C1E21;
 	color: #FFFFFF;
 	font-size: 12px;
 	font-weight: bold;
@@ -418,7 +420,7 @@ form {
 }
 
 .overlay {
-	background: #121315;
+	background:#1C1E21;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;

@@ -7,15 +7,15 @@
 	<head>
 		<title>My Portfolio</title>
 		<meta charset="UTF-8">
-		<link rel="icon" type="image/png" href="/myportfolio/img/icon.png"/>
-		<link rel="stylesheet" type="text/css" href="/myportfolio/css/styles.css">
+		<link rel="icon" type="image/png" href="../img/icon.png"/>
+		<link rel="stylesheet" type="text/css" href="../css/styles.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 	<body class="background">
 		<main>
 			<div class="global">
 				<div class="logo">
-					<a href="/myportfolio/index.html"><img src="/myportfolio/img/Maxpfp.jpg"  alt="Max pfp" style="border-radius: 20px;  padding: 10px 10px 10px; margin-bottom: 5px;	width:40px; height:40px; background-color: #303136;"></a>
+					<a href="../index.html"><img src="../img/Maxpfp.jpg"  alt="Max pfp" style="border-radius: 20px;  padding: 10px 10px 10px; margin-bottom: 5px;	width:60px; height:60px;"></a>
 				</div>
 				<div class="topnav">
 					<?php

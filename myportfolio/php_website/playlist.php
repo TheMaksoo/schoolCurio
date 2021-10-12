@@ -11,11 +11,11 @@
             <div class="container">
             <h2>Dit zijn mijn 5 favoritete liedjes:</h2>
             <ul>
-                <li><a href="/myportfolio/song/bungee_gum.html">Bungee Gum - Haarper</a></li>
+                <li><a href="../song/bungee_gum.html">Bungee Gum - Haarper</a></li>
                 <li>MARCELINE - Lil God Dan</li>
                 <li>In Heat - Phonk remix - Ekim Cilek</li>
                 <li>Ezio's Family - Jesper Kyd</li>
-                <li><a href="/myportfolio/song/NowImUpToMyNeckWithOffers.html">Now i'm Up To My Neck With Offers - $uicideboy$</li>
+                <li><a href="../song/NowImUpToMyNeckWithOffers.html">Now i'm Up To My Neck With Offers - $uicideboy$</li>
             </ul>
             </div>
         </div>
