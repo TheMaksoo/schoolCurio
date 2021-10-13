@@ -32,6 +32,7 @@
 						echo "<a href='index.php'>My Portfolio</a>";
 						echo "<a href='aboutme.php'>About me</a>";
 						echo "<a href='loginpage.php'>Login</a>";
+						echo "<a href='../borg-consulting/index.html'>Borg Consulting</a>";
 					}
 					?>
 				</div>	

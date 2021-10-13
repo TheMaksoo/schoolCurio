@@ -4,11 +4,11 @@
 		<footer class="footer">
 			<div class="container2">
 				<div class="collum">
-					<h6>About</h6>
-					<p class="text-justify">Hey ik ben  Max van Lierop, ik ben 20 jaar oud en woon in breda.<br>In mijn vrije tijd ben ik vaak aan het coderen aan solyx mijn discord bot, of ben ik aan het studeren daar voor / voor school ook doe ik natuurlijk gamen.<br>Ik werk nu bij karwei breda oost allround.<br> Mijn hobbies naast coderen en gamen zijn zeilen snowboarden en duiken ook hou ik er van om op vakantie te gaan! </p>
+					<h6>Over mij.</h6>
+					<p class="text-justify">Hey ik ben  Max van Lierop, ik ben 20 jaar oud en woon in Breda.<br>In mijn vrije tijd ben ik vaak aan het coderen aan Solyx mijn Discord bot, of ben ik aan het studeren daar voor / voor school ook doe ik natuurlijk gamen.<br>Ik werk nu bij Karwei Breda allround.<br> Mijn hobbies naast coderen en gamen zijn zeilen snowboarden en duiken ook hou ik er van om op vakantie te gaan! </p>
 				</div>
 				<div class="collum">
-					<h6>Wat ik wil leren</h6>
+					<h6>Wat ik wil leren<./h6>
 					<ul class="links">
 						<li><a href="https://www.python.org/">Python</a></li>
 						<li><a href="https://www.mongodb.com/">Mongodb</a></li>
@@ -17,7 +17,7 @@
 						<li><a href="https://www.php.net/">PHP</a></li>
 						<li><a href="https://www.javascript.com/">javascript</a></li>
 					</ul>
-					<h6>Links</h6>
+					<h6>Links.</h6>
 					<ul class="links">
 						<li><a href="https://github.com/Moheax/">Github</a></li>
 						<li><a href="https://nl.linkedin.com/in/max-van-lierop-1567081bb">LinkedIn</a></li>
