@@ -511,7 +511,7 @@ form {
 	margin: 15px 0;
 }
 
-input {
+.login-input {
 	background-color: #eee;
 	border: none;
 	padding: 12px 15px;
@@ -547,3 +547,21 @@ input {
   transition:all .3s linear;
 }
 	
+ /*  Calculator */
+ .box {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+ }
+ 
+.calc-input { 
+	background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+	
+}
+
+.selector { 
+	margin-top: -20px;
+}

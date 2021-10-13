@@ -8,7 +8,7 @@
 					<p class="text-justify">Hey ik ben  Max van Lierop, ik ben 20 jaar oud en woon in Breda.<br>In mijn vrije tijd ben ik vaak aan het coderen aan Solyx mijn Discord bot, of ben ik aan het studeren daar voor / voor school ook doe ik natuurlijk gamen.<br>Ik werk nu bij Karwei Breda allround.<br> Mijn hobbies naast coderen en gamen zijn zeilen snowboarden en duiken ook hou ik er van om op vakantie te gaan! </p>
 				</div>
 				<div class="collum">
-					<h6>Wat ik wil leren<./h6>
+					<h6>Wat ik wil leren</h6>
 					<ul class="links">
 						<li><a href="https://www.python.org/">Python</a></li>
 						<li><a href="https://www.mongodb.com/">Mongodb</a></li>

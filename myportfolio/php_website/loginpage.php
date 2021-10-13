@@ -24,11 +24,11 @@
                                     <a href="#" class="social"><i class="fa fa-google"></i></a>
                                 </ul> 
                             <p>or use your email for registration</p>
-                            <input type="email" name="email" placeholder="Email...">
-                            <input type="text" name="uid" placeholder="Username...">
-                            <input type="text" name="name" placeholder="Full Name...">
-                            <input type="password" name="pwd" placeholder="Password...">
-                            <input type="password" name="rpwd" placeholder="Repeat Password...">
+                            <input class="login-input" type="email" name="email" placeholder="Email...">
+                            <input class="login-input" type="text" name="uid" placeholder="Username...">
+                            <input class="login-input" type="text" name="name" placeholder="Full Name...">
+                            <input class="login-input" type="password" name="pwd" placeholder="Password...">
+                            <input class="login-input" type="password" name="rpwd" placeholder="Repeat Password...">
                             <button class= "normal" type="submit" name="submit">Sign Up</button>
                         </form>
                     </div>

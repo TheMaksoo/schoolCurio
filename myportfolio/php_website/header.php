@@ -21,18 +21,13 @@
 					<?php
 					if (isset($_SESSION["useruid"])) {
 						echo "<a href='index.php'>My Portfolio</a>";
-						echo "<a href='hobbies.php'>Hobbies</a>";
-						echo "<a href='projects.php'>Projects</a>";
-						echo "<a href='aboutme.php'>About me</a>";
-						echo "<a href='playlist.php'>Playlist</a>";
-						echo "<a href='groceries.php'>Groceries</a>";
+						echo "<a href='calculator.php'>calculator</a>";
+						echo "<a href='../borg-consulting/index.html'>Borg Consulting</a>";
 						echo "<a href='logout.php'>Logout</a>";
 					}
 					else { 
 						echo "<a href='index.php'>My Portfolio</a>";
-						echo "<a href='aboutme.php'>About me</a>";
 						echo "<a href='loginpage.php'>Login</a>";
-						echo "<a href='../borg-consulting/index.html'>Borg Consulting</a>";
 					}
 					?>
 				</div>	

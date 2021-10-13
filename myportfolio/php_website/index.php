@@ -14,6 +14,8 @@
                     <h3>Websites tot nu.</h3>
                     <a href='../borg-consulting/index.html'>Borg Consulting</a>
                     <p>Website voor Borg Consulting gemaakt voor stage.</p>
+                    <a href="calculator.php">Calculator</a>
+                    <p>Website voor het calculeren van breuken en normaal rekenen.</p>
                     <a href="index.php">My portfolio</a>
                     <p>Website als navigator voor websites / Opdrachten.</p>
                     <a href="smartcafe/index.html">Smartcafe</a>
