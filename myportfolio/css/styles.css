@@ -106,6 +106,7 @@
 	max-width: 70%;
 	padding: 15px 15px 15px;
 	margin: 25px auto;
+	align-content: center;
 }
 
 .container2 {
@@ -553,7 +554,7 @@ form {
 	align-items: center;
 	flex-direction: column;
  }
- 
+
 .calc-input { 
 	background-color: #eee;
     border: none;
