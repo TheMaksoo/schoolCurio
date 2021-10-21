@@ -8,6 +8,9 @@ body{
       text-align: center;
   }
   
+  header, main, footer {
+    border: 2px dotted orange;
+  }
   .banner {
       display: block;
       margin-left: auto;
@@ -25,6 +28,7 @@ body{
       margin: 10px;
       color: #FFFFFF; 
       text-decoration: none;
+      border-bottom: 5px dotted red;
   }
   
   main{
@@ -41,6 +45,7 @@ body{
       text-align: center;
       background-color: orange;
       width: 200px;
+      border: 1px solid black;
   
   }
   
