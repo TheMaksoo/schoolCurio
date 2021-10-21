@@ -1,4 +1,4 @@
 text = open("myname.txt", "r")
 name = text.read()
-print(text)
+print(name)
 text.close()
