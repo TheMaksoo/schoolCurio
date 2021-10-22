@@ -1,5 +1,5 @@
 import csv
-arrivalFile = open("\arrivals\arrivals.csv", "r", encoding="UTF-8")
+arrivalFile = open("arrivals\\arrivals.csv", "r", encoding="UTF-8")
 arrivalInfo = csv.DictReader(arrivalFile)
 arrivalList = list(arrivalInfo)
 
@@ -15,10 +15,10 @@ for arrival in arrivalList:
     passengers += int(arrival['passengers'])
     print(f"At {arrival['arrival']} a {arrival['airline']} flight from the city of {arrival['origin']} has landed, carrying {arrival['passengers']} passengers.")
 
-    if airline == arrival['airline']:
+    if airline.lower() == arrival['airline'].lower():
         airlineCount += 1
 
-        if int(arrival['passengers']) >= amountOfPassengers:
+        if int(arrival['passengers']) >= int(amountOfPassengers):
             airlinePassengers +=int(arrival['passengers'])
 
 
@@ -27,6 +27,6 @@ print(f"Flights: {flights}")
 print(f"Passengers: {passengers}")
 print(f"Average passengers: {passengers / flights}")
 print("--------------")
-print(f"Amount of flight from arline {airline}: {airlineCount}")
-print(f"Amount of passengers for {airline}: {airlinePassengers}")
+print(f"Amount of flight from arline {airline.upper()}: {airlineCount}")
+print(f"Amount of passengers for {airline.upper()}: {airlinePassengers}")
 arrivalFile.close()
