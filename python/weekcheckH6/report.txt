@@ -1,0 +1,35 @@
+name: Rufous-collared sparrow
+name: White-lipped peccary
+name: Ibis, puna
+name: Phascogale, brush-tailed
+name: Lory, rainbow
+name: Pie, rufous tree
+name: Owl, snowy
+name: Greater sage grouse
+name: Southern tamandua
+name: Tortoise, asian foreset
+name: Yellow-brown sungazer
+name: White-mantled colobus
+name: Red hartebeest
+name: Cape clawless otter
+name: Northern phalarope
+name: Vulture, turkey
+name: Gray rhea
+name: Peregrine falcon
+name: Gecko (unidentified)
+name: Snake, western patch-nosed
+name: Jacana, african
+name: Tarantula, salmon pink bird eater
+name: Phalarope, grey
+name: Crake, african black
+name: Caracara, yellow-headed
+name: Jaeger, long-tailed
+name: Paddy heron (unidentified)
+name: Praying mantis (unidentified)
+name: Bobcat
+name: Penguin, little blue
+name: Duck, blue
+name: Pied kingfisher
+total worth: 548225.93
+Average worth: 548.23
+Animals from France: 32
