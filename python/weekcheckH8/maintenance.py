@@ -53,3 +53,5 @@ while isRunning == True:
     stop = input("Type X om te stoppen. of Enter om door te gaan.")
     if stop.lower() == "x":
         isRunning = False
+
+maintenanceFile.close()
