@@ -60,9 +60,7 @@ while isRunning:
     if(stop.lower() == 'x' or datetime.now() > deadline):
         isRunning = False
 
-### Afscheids-bericht:
 print("Check-in gesloten. Houdoe!")
 
-#6. Sluit beide bestanden af
 bookingsFile.close()
 checkingFile.close()
