@@ -1,6 +1,6 @@
 import csv
 import os
-contractFile = open("contractchecker\\contracts.csv", "r", encoding="UTF-8")
+contractFile = open("search\\contracts.csv", "r", encoding="UTF-8")
 contractDict = csv.DictReader(contractFile)
 contractList = list(contractDict)
 
@@ -11,7 +11,7 @@ id = input("Voer een contract-nummer in: ")
 for contract in contractList:
     if contract["contract_id"] == id:
         isFound = True
-        breakS
+        break
 
 os.system("cls")
 
