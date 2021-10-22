@@ -1,5 +1,5 @@
 import csv
-arrivalFile = open("arrivals\\arrivals.csv", "r", encoding="UTF-8")
+arrivalFile = open("opdracht11\\arrivals.csv", "r", encoding="UTF-8")
 arrivalInfo = csv.DictReader(arrivalFile)
 arrivalList = list(arrivalInfo)
 

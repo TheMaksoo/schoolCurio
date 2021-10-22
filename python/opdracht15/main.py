@@ -1,5 +1,5 @@
 import csv
-arrivalFile = open("opdracht13\\arrivals.csv", "r", encoding="UTF-8")
+arrivalFile = open("opdracht15\\arrivals.csv", "r", encoding="UTF-8")
 arrivalInfo = csv.DictReader(arrivalFile)
 arrivalList = list(arrivalInfo)
 
@@ -26,6 +26,12 @@ print("--------------")
 print(f"Flights: {flights}")
 print(f"Passengers: {passengers}")
 print(f"Average passengers: {passengers / flights}")
+print("--------------")
+sortedFlights = sorted(arrivalList, key=lambda row: int(row["passengers"]),reverse=True)
+for i in range(10):
+    topFlights = sortedFlights[i]
+    print(f"flight {topFlights['flight']} with {topFlights['passengers']} passengers")
+
 print("--------------")
 print(f"Amount of flight from arline {airline.upper()}: {airlineCount}")
 print(f"Amount of passengers for {airline.upper()}: {airlinePassengers}")
