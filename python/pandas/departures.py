@@ -39,6 +39,6 @@ if choice == "2":
     print(f"Aantal vluchten vandaag: {amount}")
 
 if choice == "3":
-    data_pivoted = data.pivot_table(index="destination", columns="airline", values="flight", aggfunc=int(sum))
+    data_pivoted = data.pivot_table(index="destination", columns="airline", values="flight", aggfunc=sum)
     print(data_pivoted)
 
