@@ -4,7 +4,7 @@ from datetime import datetime
 from datetime import timedelta
 
 reportfile = open("python\\weekcheckH9\\report.txt")
-data = pd.read_excel("python\\pandas\\flights_2019.xlsx")
+data = pd.read_excel("python\\weekcheckH9\\flights_2019.xlsx")
 isRunning = True
 
 

@@ -4,8 +4,8 @@ from datetime import datetime
 from datetime import timedelta
 import matplotlib.pyplot as plt
 
-reportfile = open("python\\weekcheckH9\\report.txt")
-data = pd.read_excel("python\\pandas\\flights_2019.xlsx")
+reportfile = open("python\\weekcheckH10\\report.txt")
+data = pd.read_excel("python\\weekcheckH10\\flights_2019.xlsx")
 isRunning = True
 
 
