@@ -3,9 +3,10 @@ import os
 from datetime import datetime
 from datetime import timedelta
 import matplotlib.pyplot as plt
+from pandas.core.frame import DataFrame
 
-reportfile = open("python\\matoplotlib\\report.txt")
-data = pd.read_excel("python\\matoplotlib\\flights_2019.xlsx")
+reportfile = open('python\\matplotlib\\report.txt', "w")
+data = pd.read_excel("python\\matplotlib\\flights_2019.xlsx")
 isRunning = True
 
 
@@ -21,9 +22,13 @@ while isRunning == True:
 
     os.system("cls")
     while isChoiceRunning == True:    
+        reportfile.write("\n\n")
+    
         if choice == "1":
             averagePersons = data["passengers"].mean()
-            print(f"gemiddelde passagiers: {int(averagePersons)}")
+            text = f"gemiddelde passagiers: {int(averagePersons)}\n"
+            print(text)
+            reportfile.write(text)
 
         if choice == "2":
             topAmount = ''
@@ -37,8 +42,8 @@ while isRunning == True:
             data_sorted = data.sort_values("passengers", ascending = False)
             top = data_sorted.head(int(topAmount))  
             print(top)
-            # top = top.apply(str) 
-            # reportfile.write(top) TypeError: write() argument must be str, not Series || TypeError: write() argument must be str, not DataFrame
+            topString = top.to_string()
+            reportfile.write(topString)
 
         if choice == "3":
             country = input("Land:")
@@ -47,14 +52,15 @@ while isRunning == True:
             amount = filteredData["destination"].count()
             msg = (f"Aantal vluchten uit: {country} = {amount}")
             print(msg)
-            #reportfile.write(msg)
+            reportfile.write(str(msg))
 
         if choice == "4":
             data["departed"] = pd.to_datetime(data["departed"], format="%d/%m/%Y")
             data["departed"] = data["departed"].dt.strftime("%Y-%m")
             data_pivoted = data.pivot_table(index="departed", columns="airline", values="passengers", aggfunc=sum)
             print(data_pivoted)
-            # reportfile.write(data_pivoted) TypeError: write() argument must be str, not DataFrame
+            data_pivotedString = data_pivoted.to_string()
+            reportfile.write(data_pivotedString)
             sums = data.groupby("departed")["passengers"].sum()
 
             sums.plot(stacked = True)

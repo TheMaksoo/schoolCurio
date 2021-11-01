@@ -4,7 +4,7 @@ from datetime import datetime
 from datetime import timedelta
 import matplotlib.pyplot as plt
 
-reportfile = open("python\\weekcheckH10\\report.txt")
+reportfile = open("python\\weekcheckH10\\report.txt", "w")
 data = pd.read_excel("python\\weekcheckH10\\flights_2019.xlsx")
 isRunning = True
 
@@ -21,6 +21,8 @@ while isRunning == True:
 
     os.system("cls")
     while isChoiceRunning == True:    
+        reportfile.write("\n\n")
+
         if choice == "1":
             averagePersons = data["passengers"].mean()
             print(f"gemiddelde passagiers: {int(averagePersons)}")
@@ -37,8 +39,8 @@ while isRunning == True:
             data_sorted = data.sort_values("passengers", ascending = False)
             top = data_sorted.head(int(topAmount))  
             print(top)
-            # top = top.apply(str) 
-            # reportfile.write(top) TypeError: write() argument must be str, not Series || TypeError: write() argument must be str, not DataFrame
+            topString = top.to_string()
+            reportfile.write(topString)
 
         if choice == "3":
             country = input("Land:")
@@ -47,14 +49,15 @@ while isRunning == True:
             amount = filteredData["destination"].count()
             msg = (f"Aantal vluchten uit: {country} = {amount}")
             print(msg)
-            #reportfile.write(msg)
+            reportfile.write(str(msg))
 
         if choice == "4":
             data["departed"] = pd.to_datetime(data["departed"], format="%d/%m/%Y")
             data["departed"] = data["departed"].dt.strftime("%Y-%m")
             data_pivoted = data.pivot_table(index="departed", columns="airline", values="passengers", aggfunc=sum)
             print(data_pivoted)
-            # reportfile.write(data_pivoted) TypeError: write() argument must be str, not DataFrame
+            data_pivotedString = data_pivoted.to_string()
+            reportfile.write(data_pivotedString)
             sums = data.groupby("departed")["passengers"].sum()
 
             sums.plot(stacked = True)
