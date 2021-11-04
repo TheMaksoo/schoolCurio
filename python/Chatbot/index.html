@@ -1,0 +1,109 @@
+from flask import Flask, render_template, request
+from chatterbot import ChatBot
+from chatterbot.trainers import ChatterBotCorpusTrainer
+
+app = Flask(__name__)
+
+english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
+trainer = ChatterBotCorpusTrainer(english_bot)
+trainer.train("chatterbot.corpus.english")
+
+@app.route("/")
+def home():
+return render_template("index.html")
+
+@app.route("/get")
+def get_bot_response():
+userText = request.args.get('msg')
+return str(english_bot.get_response(userText))
+
+
+if __name__ == "__main__":
+app.run()
+index.html
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <script src=<a href="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"</a></script>
+</head>
+
+<body>
+    <h1>Flask Chat bot</h1>
+    <div>
+        <div id="chatbox">
+            <p class="botText"><span>Hi! I'm Maxie.</span></p>
+        </div>
+        <div id="userInput">
+            <input id="textInput" type="text" name="msg" placeholder="Message">
+            <input id="buttonInput" type="submit" value="Send">
+        </div>
+        <script>
+            function getBotResponse() {
+                var rawText = $("#textInput").val();
+                var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+                $("#textInput").val("");
+                $("#chatbox").append(userHtml);
+                document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+                $.get("/get", { msg: rawText }).done(function (data) {
+                    var botHtml = '<p class="botText"><span>' + data + '</span></p>';
+                    $("#chatbox").append(botHtml);
+                    document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+                });
+            }
+            $("#textInput").keypress(function (e) {
+                if (e.which == 13) {
+                    getBotResponse();
+                }
+            });
+            $("#buttonInput").click(function () {
+                getBotResponse();
+            })
+        </script>
+    </div>
+</body>
+
+</html>
