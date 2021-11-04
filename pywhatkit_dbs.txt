@@ -1,46 +1,11 @@
 --------------------
-Date: 3:11:2021
-Time: 23:47
-Phone number: +31 0652512247
-Message: Hi 
---------------------
-Date: 3:11:2021
-Time: 23:48
-Phone number: +31 0652512247
-Message: Hi 
---------------------
-Date: 3:11:2021
-Time: 23:49
-Phone number: +31 0652512247
-Message: Hi 
---------------------
-Date: 3:11:2021
-Time: 23:51
-Phone number: +31 0652512247
-Message: Hi 
---------------------
-Date: 3:11:2021
-Time: 23:51
-Phone number: +31 0652512247
-Message: Hi 
---------------------
-Date: 3:11:2021
-Time: 23:52
-Phone number: +31 0652512247
-Message: Hi 
---------------------
-Date: 3:11:2021
-Time: 0:0
-Phone number: +31 06 50820822
-Message: Alvast Weltrusten Juling! :D
+Date: 4:11:2021
+Time: 12:59
+Phone number: +31 06 11183515
+Message: Ewwaaaaa!
 --------------------
 Date: 4:11:2021
-Time: 0:7
-Phone number: +31 06 22496374
-Message: Goede avond Mama!
---------------------
-Date: 4:11:2021
-Time: 0:14
-Phone number: +31 06 22496374
-Message: Hoe gaat het!
+Time: 13:0
+Phone number: +31 06 11183515
+Message: Ewwaaaaa!
 --------------------
