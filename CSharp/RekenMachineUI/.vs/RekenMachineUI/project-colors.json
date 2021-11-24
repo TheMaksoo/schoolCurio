@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6e98e1b-fd77-468f-bf5e-2b89ecc42c55": {
+      "ProjectGuid": "f6e98e1b-fd77-468f-bf5e-2b89ecc42c55",
+      "DisplayName": "RekenMachineUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

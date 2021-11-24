@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\bin\Debug\RekenMachineUI.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\bin\Debug\RekenMachineUI.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\bin\Debug\RekenMachineUI.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachineUI\obj\Debug\RekenMachineUI.pdb

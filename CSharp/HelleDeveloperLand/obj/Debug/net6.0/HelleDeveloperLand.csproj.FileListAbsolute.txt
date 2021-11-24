@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\bin\Debug\net6.0\HelleDeveloperLand.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\bin\Debug\net6.0\HelleDeveloperLand.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\bin\Debug\net6.0\HelleDeveloperLand.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\bin\Debug\net6.0\HelleDeveloperLand.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\bin\Debug\net6.0\ref\HelleDeveloperLand.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\bin\Debug\net6.0\HelleDeveloperLand.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\ref\HelleDeveloperLand.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelleDeveloperLand\obj\Debug\net6.0\HelleDeveloperLand.genruntimeconfig.cache

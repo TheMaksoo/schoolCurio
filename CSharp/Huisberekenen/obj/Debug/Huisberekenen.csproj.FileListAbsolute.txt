@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\bin\Debug\Huisberekenen.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\bin\Debug\Huisberekenen.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\bin\Debug\Huisberekenen.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.huisBerekenen.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Huisberekenen\obj\Debug\Huisberekenen.pdb

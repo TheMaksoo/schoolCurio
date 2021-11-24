@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\bin\Debug\net6.0\RekenMachine.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\bin\Debug\net6.0\RekenMachine.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\bin\Debug\net6.0\RekenMachine.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\bin\Debug\net6.0\RekenMachine.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\bin\Debug\net6.0\ref\RekenMachine.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\bin\Debug\net6.0\RekenMachine.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\ref\RekenMachine.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\RekenMachine\obj\Debug\net6.0\RekenMachine.genruntimeconfig.cache
