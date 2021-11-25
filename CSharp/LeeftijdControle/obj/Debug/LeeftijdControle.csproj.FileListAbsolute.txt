@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\bin\Debug\LeeftijdControle.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\bin\Debug\LeeftijdControle.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\bin\Debug\LeeftijdControle.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\LeeftijdControle\obj\Debug\LeeftijdControle.csproj.AssemblyReference.cache

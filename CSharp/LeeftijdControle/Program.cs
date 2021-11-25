@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TimeCalculator
+namespace LeeftijdControle
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace TimeCalculator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new timeCalculatorForm());
+            Application.Run(new leeftijdCheck());
         }
     }
 }

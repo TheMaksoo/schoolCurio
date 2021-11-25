@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b6498f0-e51e-4e87-a4ab-b1ca9d5b320f": {
+      "ProjectGuid": "5b6498f0-e51e-4e87-a4ab-b1ca9d5b320f",
+      "DisplayName": "TimeCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
