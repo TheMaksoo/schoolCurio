@@ -19,21 +19,22 @@ namespace LeeftijdControle
 
         private void button1_Click(object sender, EventArgs e)
         {
-            DateTime geboorteDag = dtp.Value;
-            DateTime today = DateTime.Now;
-            int leeftijd = today.Year - geboorteDag.Year;
-            double ageDays = ((today - (geboorteDag)).TotalDays);
-            double minAge = 18 * 365.25;
-            double dagenTot = minAge - ageDays;
+            DateTime geboorteDatum = dtp.Value;
+            geboorteDatum.AddYears(18).ToShortDateString();
+            DateTime vandaag = DateTime.Now;
+            int leeftijdJaren = vandaag.Year - geboorteDatum.Year;
+            double leeftijdInDagen = ((vandaag - (geboorteDatum)).TotalDays);
+            double minimaleLeeftijd = 18 * 365.25;
+            double drinkLeeftijdInDagen = minimaleLeeftijd - leeftijdInDagen;
 
 
-            if (leeftijd >= 18)
+            if (leeftijdJaren >= 18)
             {
                 MessageBox.Show("Je mag alcohol drinken!");
             }
-            else if (leeftijd >= 17)
+            else if (leeftijdJaren >= 17)
             {
-                MessageBox.Show("Je mag over " + dagenTot.ToString("N0") + " dagen drinken!");
+                MessageBox.Show("Je mag over " + drinkLeeftijdInDagen.ToString("N0") + " dagen drinken!");
             }
             else
             {
