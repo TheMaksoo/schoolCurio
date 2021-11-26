@@ -45,7 +45,11 @@ namespace RekenMachineUI
 		private void Plus_Click(object sender, EventArgs e)
 		{
             try 
-			{ 
+			{
+				float getalEen = Input1.Text; // replace , voor .
+				float getalTwee = Input2.Text; // replace , voor .
+
+				resul
 				Resultaat.Text = Convert.ToString(float.Parse(Input1.Text) + float.Parse(Input2.Text));
 			}
 			catch

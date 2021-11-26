@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\bin\Debug\kassa.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\bin\Debug\kassa.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\bin\Debug\kassa.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\kassa\obj\Debug\kassa.pdb
