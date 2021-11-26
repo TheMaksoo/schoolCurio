@@ -1,22 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿
+DateTime now  = DateTime.Now;
+string day = now.DayOfWeek.ToString();
+string invoer = day;
+string uitvoer = "";
 
-namespace lesVandaag
+switch (invoer)
 {
-    internal static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-        }
-    }
+	case "Monday":
+		{
+			uitvoer = "C# lessen";
+			break;
+		}
+	case "Tuesday":
+		{
+			uitvoer = "Project";
+			break;
+		}
+	case "Wednesday":
+		{
+			uitvoer = "Keuzedeel";
+			break;
+		}
+	case "Thursday":
+		{
+			uitvoer = "HTLM-CSS";
+			break;
+		}
+	case "Friday":
+		{
+			uitvoer = "Python";
+			break;
+		}
 }
+Console.WriteLine("Op " + invoer + " heb je " + uitvoer + ".");
+Console.ReadKey();

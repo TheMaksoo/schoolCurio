@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\bin\Debug\net6.0\lesVandaag.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\bin\Debug\net6.0\lesVandaag.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\bin\Debug\net6.0\lesVandaag.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\bin\Debug\net6.0\lesVandaag.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\bin\Debug\net6.0\ref\lesVandaag.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\bin\Debug\net6.0\lesVandaag.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\ref\lesVandaag.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\lesVandaag\obj\Debug\net6.0\lesVandaag.genruntimeconfig.cache
