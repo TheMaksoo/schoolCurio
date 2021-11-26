@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\bin\Debug\BioscoopCheck.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\bin\Debug\BioscoopCheck.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\bin\Debug\BioscoopCheck.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\BioscoopCheck\obj\Debug\BioscoopCheck.pdb

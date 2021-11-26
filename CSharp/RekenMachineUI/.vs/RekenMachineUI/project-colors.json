@@ -5,6 +5,11 @@
       "ProjectGuid": "f6e98e1b-fd77-468f-bf5e-2b89ecc42c55",
       "DisplayName": "RekenMachineUI",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

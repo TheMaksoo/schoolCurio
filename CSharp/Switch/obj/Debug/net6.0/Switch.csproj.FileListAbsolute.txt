@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\bin\Debug\net6.0\Switch.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\bin\Debug\net6.0\Switch.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\bin\Debug\net6.0\Switch.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\bin\Debug\net6.0\Switch.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\bin\Debug\net6.0\ref\Switch.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\bin\Debug\net6.0\Switch.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\ref\Switch.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Switch\obj\Debug\net6.0\Switch.genruntimeconfig.cache

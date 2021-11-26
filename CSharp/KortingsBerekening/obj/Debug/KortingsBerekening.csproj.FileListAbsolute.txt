@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\bin\Debug\KortingsBerekening.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\bin\Debug\KortingsBerekening.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\bin\Debug\KortingsBerekening.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\KortingsBerekening\obj\Debug\KortingsBerekening.pdb
