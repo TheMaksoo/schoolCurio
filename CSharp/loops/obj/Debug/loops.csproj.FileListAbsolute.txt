@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\bin\Debug\loops.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\bin\Debug\loops.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\bin\Debug\loops.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\loops\obj\Debug\loops.pdb

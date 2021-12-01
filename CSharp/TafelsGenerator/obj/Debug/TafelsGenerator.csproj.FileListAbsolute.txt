@@ -1,0 +1,10 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\bin\Debug\TafelsGenerator.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\bin\Debug\TafelsGenerator.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\bin\Debug\TafelsGenerator.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\TafelsGenerator\obj\Debug\TafelsGenerator.pdb
