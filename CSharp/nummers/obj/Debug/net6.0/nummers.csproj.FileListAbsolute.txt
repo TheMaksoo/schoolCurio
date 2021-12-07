@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\bin\Debug\net6.0\nummers.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\bin\Debug\net6.0\nummers.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\bin\Debug\net6.0\nummers.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\bin\Debug\net6.0\nummers.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\bin\Debug\net6.0\ref\nummers.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\bin\Debug\net6.0\nummers.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\ref\nummers.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\nummers\obj\Debug\net6.0\nummers.genruntimeconfig.cache

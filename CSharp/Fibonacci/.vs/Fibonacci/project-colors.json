@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7aceb290-40d1-4a8d-b84d-468732006227": {
+      "ProjectGuid": "7aceb290-40d1-4a8d-b84d-468732006227",
+      "DisplayName": "Fibonacci",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
