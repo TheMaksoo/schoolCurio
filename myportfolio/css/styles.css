@@ -565,6 +565,59 @@ form {
 	margin-top: -20px;
 }
 
+/* rekentoets */
+
+.rekentoets-section{
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 100px 0px;
+  font-family: "JetBrains Mono";
+  color: white;
+  
+}
+
+.rekentoets-wrapper{
+  margin: 50px 0px;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  align-items: center;
+  max-width: 1400px;
+  width: 100%;
+}
+
+.rekentoets-name{
+  display: flex;
+  flex-direction: column;
+}
+
+.rekentoets-name p{
+  color: rgb(100, 100, 100);
+  margin-bottom: 0.5rem;
+  text-shadow: black 0px 0px 10px;
+  font-size: 14px;
+  font-family: "JetBrains Mono";
+}
+
+.number-input{
+  border-radius: 4px;
+  border: 2px solid rgb(50, 50, 50);
+  height: 40px;
+  width: 100%;
+  font-family: "JetBrains Mono";
+  color: rgb(2, 212, 99);
+  transition: all 0.2s ease 0s;
+  outline: none;
+  font-size: inherit;
+  padding: 15px;
+  background: rgb(50, 50, 50);
+  box-shadow: rgb(0 0 0 / 50%) 0px 0px 10px;
+}
+
+
 /* enquete */
 
 .enquete-section{
@@ -858,6 +911,7 @@ form {
     width: 100%;
 }
 
+/* contact */
 .contact-message{
     margin-top: 1rem;
     width: 100%;

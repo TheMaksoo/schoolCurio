@@ -36,6 +36,10 @@
                         <p>Webpagina met mijn boodshappen...</p>
                         <a href="song/bungee_gum.html">Favorite song</a>
                         <p>Webpagina / medial speler met een nummer.</p>
+                        <a href="enqueteform.php">Enquete</a>
+                        <p>Webpagina met 10 verschillende inputs die naar een bestand worden geschreven.</p>
+                        <a href="rekentoets.php">Rekentoets</a>
+                        <p> klein en makkelijke rekentoets.</p>
                     </div>
                 </div>
             </div>
