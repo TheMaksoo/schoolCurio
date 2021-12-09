@@ -18,7 +18,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 30. Jij had " . $vraag1);
+        echo nl2br("\nVraag 1: Juiste antwoord is 30. Jij had " . $vraag1);
     }
     if ($vraag2 == 20)
     {
@@ -26,7 +26,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 20. Jij had " . $vraag2);
+        echo nl2br("\nVraag 2:Juiste antwoord is 20. Jij had " . $vraag2);
     }
     if ($vraag3 == 100)
     {
@@ -34,7 +34,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 100. Jij had " . $vraag3);
+        echo nl2br("\nVraag 3: Juiste antwoord is 100. Jij had " . $vraag3);
     }
     if ($vraag4 == 4)
     {
@@ -42,7 +42,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 4. Jij had " . $vraag4);
+        echo nl2br("\nVraag 4: Juiste antwoord is 4. Jij had " . $vraag4);
     }
     if ($vraag5 == 10000)
     {
@@ -50,7 +50,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 10000. Jij had " . $vraag5);
+        echo nl2br("\nVraag 5: Juiste antwoord is 10000. Jij had " . $vraag5);
     }
     if ($vraag6 == 35)
     {
@@ -58,7 +58,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 35. Jij had " . $vraag6);
+        echo nl2br("\nVraag 6: Juiste antwoord is 35. Jij had " . $vraag6);
     }
     if ($vraag7 == 15)
     {
@@ -66,7 +66,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 15. Jij had " . $vraag7);
+        echo nl2br("\nVraag 7: Juiste antwoord is 15. Jij had " . $vraag7);
     }
     if ($vraag8 == 5)
     {
@@ -74,7 +74,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 5. Jij had " . $vraag8);
+        echo nl2br("\nVraag 8: Juiste antwoord is 5. Jij had " . $vraag8);
     }
     if ($vraag9 == 75)
     {
@@ -82,7 +82,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 75. Jij had " . $vraag9);
+        echo nl2br("\nVraag 9: Juiste antwoord is 75. Jij had " . $vraag9);
     }
     if ($vraag10 == 6)
     {
@@ -90,7 +90,7 @@ if(isset($_POST['submit'])){
     }
     else 
     {
-        echo nl2br("\nJuiste antwoord is 6. Jij had " . $vraag10);
+        echo nl2br("\nVraag 10: Juiste antwoord is 6. Jij had " . $vraag10);
     }
 
     
