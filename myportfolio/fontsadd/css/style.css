@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'League Mono';
+    src: url('../fonts/LeagueMono-Regular.eot');
+    src: url('../fonts/LeagueMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/LeagueMono-Regular.woff2') format('woff2'),
+        url('../fonts/LeagueMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body 
+{
+    font-family: "League Mono";
+}
+
