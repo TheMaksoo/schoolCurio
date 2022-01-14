@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\bin\Debug\FilmMultiArray.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\bin\Debug\FilmMultiArray.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\bin\Debug\FilmMultiArray.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmMultiArray\obj\Debug\FilmMultiArray.pdb

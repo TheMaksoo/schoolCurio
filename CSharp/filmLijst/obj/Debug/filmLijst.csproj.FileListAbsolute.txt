@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\bin\Debug\filmLijst.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\bin\Debug\filmLijst.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\bin\Debug\filmLijst.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\filmLijst\obj\Debug\filmLijst.pdb

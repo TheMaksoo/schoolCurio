@@ -1,0 +1,14 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\bin\Debug\net6.0\carArray.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\bin\Debug\net6.0\carArray.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\bin\Debug\net6.0\carArray.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\bin\Debug\net6.0\carArray.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\bin\Debug\net6.0\ref\carArray.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\bin\Debug\net6.0\carArray.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\ref\carArray.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\carArray\obj\Debug\net6.0\carArray.genruntimeconfig.cache
