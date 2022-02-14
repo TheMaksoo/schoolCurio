@@ -16,7 +16,7 @@ namespace FilmApplicatie
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new dgvFilms());
+            Application.Run(new form());
         }
     }
 }
