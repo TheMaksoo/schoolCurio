@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\bin\Debug\FilmApplicatie.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\bin\Debug\FilmApplicatie.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\bin\Debug\FilmApplicatie.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.form.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\FilmApplicatie\obj\Debug\FilmApplicatie.pdb
