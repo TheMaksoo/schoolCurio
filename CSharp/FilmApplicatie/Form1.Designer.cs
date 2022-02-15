@@ -37,7 +37,7 @@
             this.dgvFilms.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvFilms.Location = new System.Drawing.Point(184, 93);
             this.dgvFilms.Name = "dgvFilms";
-            this.dgvFilms.Size = new System.Drawing.Size(240, 150);
+            this.dgvFilms.Size = new System.Drawing.Size(387, 330);
             this.dgvFilms.TabIndex = 0;
             // 
             // form
