@@ -1,0 +1,11 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\bin\Debug\DessertsApp.exe.config
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\bin\Debug\DessertsApp.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\bin\Debug\DessertsApp.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.Form1.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.Properties.Resources.resources
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.csproj.GenerateResource.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\DessertsApp\obj\Debug\DessertsApp.pdb
