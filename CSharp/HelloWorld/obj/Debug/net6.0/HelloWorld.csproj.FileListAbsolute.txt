@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
