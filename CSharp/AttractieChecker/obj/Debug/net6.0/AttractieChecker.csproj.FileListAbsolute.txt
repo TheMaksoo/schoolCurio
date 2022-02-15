@@ -1,0 +1,14 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\bin\Debug\net6.0\AttractieChecker.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\bin\Debug\net6.0\AttractieChecker.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\bin\Debug\net6.0\AttractieChecker.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\bin\Debug\net6.0\AttractieChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\bin\Debug\net6.0\ref\AttractieChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\bin\Debug\net6.0\AttractieChecker.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\ref\AttractieChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\AttractieChecker\obj\Debug\net6.0\AttractieChecker.genruntimeconfig.cache
