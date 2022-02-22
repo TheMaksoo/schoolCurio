@@ -106,5 +106,6 @@ while (running == true)
             LaatsteOnderhoud = addo
         });
         add = false;
+        Console.Clear();
     }
 }
