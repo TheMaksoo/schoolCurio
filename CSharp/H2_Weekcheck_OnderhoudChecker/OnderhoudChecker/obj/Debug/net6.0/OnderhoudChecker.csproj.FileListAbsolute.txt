@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\bin\Debug\net6.0\OnderhoudChecker.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\bin\Debug\net6.0\OnderhoudChecker.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\bin\Debug\net6.0\OnderhoudChecker.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\bin\Debug\net6.0\OnderhoudChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\bin\Debug\net6.0\ref\OnderhoudChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\bin\Debug\net6.0\OnderhoudChecker.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\ref\OnderhoudChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H2_Weekcheck_OnderhoudChecker\OnderhoudChecker\obj\Debug\net6.0\OnderhoudChecker.genruntimeconfig.cache

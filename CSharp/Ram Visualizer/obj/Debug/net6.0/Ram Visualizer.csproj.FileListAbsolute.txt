@@ -1,0 +1,5 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Ram Visualizer\obj\Debug\net6.0\Ram Visualizer.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Ram Visualizer\obj\Debug\net6.0\Ram Visualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Ram Visualizer\obj\Debug\net6.0\Ram Visualizer.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Ram Visualizer\obj\Debug\net6.0\Ram Visualizer.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\Ram Visualizer\obj\Debug\net6.0\Ram Visualizer.csproj.CoreCompileInputs.cache

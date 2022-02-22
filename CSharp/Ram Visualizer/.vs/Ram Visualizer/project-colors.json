@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6acf20ec-fd29-4c80-8c12-c64f0282c833": {
+      "ProjectGuid": "6acf20ec-fd29-4c80-8c12-c64f0282c833",
+      "DisplayName": "Ram Visualizer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
