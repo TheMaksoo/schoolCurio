@@ -39,6 +39,7 @@ while(isRunning)
         Console.WriteLine(notPaid);
     }
 
+    // abbo xl age
     if (Answer == "3")
     {
         
@@ -61,6 +62,7 @@ while(isRunning)
 
     }
 
+    // expensive shizzle
     if (Answer == "4")
     {
         Console.WriteLine("met hoeveel % wilt u de prijs verhogen?");
@@ -72,18 +74,40 @@ while(isRunning)
             if(abbo.HeeftAutomatischVerlengen == true && abbo.AantalDagenOud > 360)
             {
                 abbo.AantalDagenOud = 0;
-                double newprice = abbo.Prijs / 100 * percentage;
-                Console.WriteLine($"Abonnement {abbo.Nummer} verlengd (van {abbo.Prijs} naar {newprice})");
-                abbo.Prijs = newprice;
+                double newprice = (abbo.Prijs / 100 ) * (100 + percentage);
+                Console.WriteLine($"Abonnement {abbo.Nummer} verlengd (van {abbo.Prijs} naar {Math.Round(newprice, 2)})");
+                abbo.Prijs = Math.Round(newprice, 2);
             }
 
         }
     }
 
-        // SCRHIJF HIER JE EIGEN CODE
+    // korting
+    if (Answer == "5")
+    {
+        Console.WriteLine("met hoeveel % wilt u de prijs verhogen?");
+        uint percentage = Convert.ToUInt16(Console.ReadLine());
 
 
-        Console.WriteLine("Wilt u afsluiten? Ja / Nee");
+        foreach (var abbo in abonnements)
+        {
+            if (abbo.HeeftAutomatischVerlengen == true )
+            {
+                if ( abbo.Leeftijd > 65 || abbo.IsMedewerker == true)
+                { 
+                    abbo.AantalDagenOud = 0;
+                    double newprice = abbo.Prijs - ((abbo.Prijs / 100) * percentage);
+                    Console.WriteLine($"Abonnement {abbo.Nummer} verlengd (van {abbo.Prijs} naar {Math.Round(newprice, 2)})");
+                    abbo.Prijs = Math.Round(newprice, 2);
+                }
+            }
+        }
+    }
+
+    // SCRHIJF HIER JE EIGEN CODE
+
+
+    Console.WriteLine("Wilt u afsluiten? Ja / Nee");
     string closeAnswer = Console.ReadLine();
     if (closeAnswer == "Ja" || closeAnswer == "ja")
     {
