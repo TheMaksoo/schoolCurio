@@ -1,0 +1,15 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.csproj.AssemblyReference.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\bin\Debug\net6.0\AbboChecker.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\bin\Debug\net6.0\AbboChecker.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\bin\Debug\net6.0\AbboChecker.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\bin\Debug\net6.0\AbboChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\bin\Debug\net6.0\ref\AbboChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\bin\Debug\net6.0\AbboChecker.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\ref\AbboChecker.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H3_Weekcheck_AbboChecker\AbboChecker\obj\Debug\net6.0\AbboChecker.genruntimeconfig.cache
