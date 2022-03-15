@@ -1,0 +1,6 @@
+      datum              team1                        team2 uitslag  scheidsrechter  overtredingen
+ 31-12-2020   Banzo / Side-Out             Amysoft Lycurgus     0-3        Schulten             98
+ 18-12-2020      VV Vierhuizen  Talententeam Papendal Heren     3-2          Scheer             95
+ 06-11-2020   Amysoft Lycurgus                     RECO ZVH     3-2         Rehorst             93
+ 20-11-2020   Amysoft Lycurgus             Muiderberg Heren     1-3  van der Heyden             90
+ 23-12-2020  Ewijk Sport Heren                    VC Eethen     1-3  van der Heyden             89

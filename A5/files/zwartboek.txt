@@ -1,0 +1,6 @@
+           divisie                team1                team2       datum scheidsrechter                    stadion  bezoekersaantal uitslag  overtredingen
+184  Tweede klasse  Reading Hockey Club          HC Den Hout  22/12/2021        Rijcken     Mander Olympic Stadium            26936     5-0             96
+304  Tweede klasse    HC Wilhelminaoord            Sondel HC  10/01/2022        Rijcken            Stokkum Stadium            19317     4-3             92
+104  Tweede klasse          HC Zuidveld      Mensingeweer HC  10/01/2022           Riem           Wernhout Stadium             2533     8-5             91
+232  Tweede klasse        Zijdewind UHC        UHC Bilthoven  09/01/2022        Rijcken     Mander Olympic Stadium             3796     5-6             87
+8    Tweede klasse            Sondel HC  Reading Hockey Club  11/01/2022        Martens  Earnewâld Olympic Stadium            27218     5-3             87

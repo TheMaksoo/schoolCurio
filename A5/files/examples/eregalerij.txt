@@ -1,0 +1,16 @@
+      datum                        team1                        team2 uitslag  scheidsrechter
+ 22-12-2020             Banzo / Side-Out                  VC de Woude     2-3  van der Heyden
+ 22-12-2020                 Dros Alterno                VV Vierhuizen     0-3       Wildschut
+ 22-12-2020                   VC Meeuwen                  VC de Woude     1-3          Schilt
+ 23-12-2020               Draisma Dynamo               VV Hellendoorn     3-2       Wildschut
+ 23-12-2020  Talententeam Papendal Heren               Wetering Heren     3-1        Schulten
+ 25-12-2020                 VV Gorredijk  Talententeam Papendal Heren     3-0         Rehorst
+ 27-12-2020               VV Hellendoorn                 Dros Alterno     1-3  van der Heyden
+ 27-12-2020                 Dros Alterno  Talententeam Papendal Heren     3-1      van Kempen
+ 27-12-2020  Talententeam Papendal Heren                VV Vierhuizen     1-3  van der Heyden
+ 28-12-2020                VV Vierhuizen             Muiderberg Heren     0-3  van der Heyden
+ 28-12-2020                VV Oisterwijk                 VC Blesdijke     0-3  van der Heyden
+ 29-12-2020                   VC Meeuwen                    VC Waarde     3-2      van Kempen
+ 31-12-2020                     RECO ZVH               Wetering Heren     3-0  van der Heyden
+ 31-12-2020             Muiderberg Heren                  VC Meerssen     3-1      van Kempen
+ 01-01-2021                     RECO ZVH                VV Vierhuizen     0-3         Rehorst
