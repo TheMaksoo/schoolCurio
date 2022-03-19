@@ -87,102 +87,47 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-/* ALGEMEEN */
-
 html{
     font-size: 16px;
 }
 
 body{
-    font-family: Arial;
+    font-family: "Comic Sans MS", sans-serif;
 }
 
 .container{
-    max-width: 1024px;
+    max-width: 960px;
     margin: 0 auto;
 }
 
 header{
-    border-bottom: 1px solid lightgrey;
     font-size: 1.25rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    background-color: lightsteelblue;
 }
 
 header .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #90ee90;
-}
-
-.logo{
-    height: 5rem;
 }
 
 h1{
-    margin-bottom: 0px;
+    margin: 0px;
+    font-size: 1.5rem;
 }
-
-h1+a{
-    display: block;
-    margin-bottom: 1.5rem;
-}
-
-.msg{
-    margin: 1rem 0;
-    padding: 1rem;
-    background-color: lightblue;
-    border-radius: 4px;
-}
-
-table{
-    width: 100%;
-}
-
-th{
-    text-align: left;
-    background-color: #90ee90;
-}
-
-
-/* HOME */
 
 .home{
-    min-height: calc(100vh - 7rem - 1px);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    margin-top: 2rem;
+    font-size: 1.25rem;
+    text-align: center;
 }
 
-/* MELDINGEN */
-
-.form-group{
-    margin: 1rem 0;
+.img-l{
+    max-height: 480px;
+    max-width: 640px;
 }
-
-label{
-    cursor: pointer;
-    display: inline-block;
-    min-width: 140px;
-    vertical-align: top;
-}
-
-.form-input{
-    width: 600px;
-}
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -360,14 +305,3 @@ label{
   }
 }
 
-tr:nth-child(odd) {
-  background-color:#b9f8b9;
-}
-
-tr:first-child {
-  background-color:#d3d3d3;
-}
-
-tr:hover {
-  background-color:#b9f8b9;
-}
