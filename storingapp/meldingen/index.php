@@ -8,8 +8,15 @@
 
 <body>
 
-    <?php require_once '../header.php'; ?>
+    <?php require_once '../header.php'; 
     
+    if(!isset($_SESSION['user_id']))
+    {
+        $msg = "Je moet eerst inloggen!";
+        header("Location: $base_url/login.php?msg=$msg");
+        exit;
+    }
+    ?>
     <div class="container">
         <h1>Meldingen</h1>
         <a href="create.php">Nieuwe melding &gt;</a>
@@ -26,6 +33,7 @@
             $statement = $conn->prepare($query);
             $statement->execute();
             $meldingen = $statement->fetchAll(PDO::FETCH_ASSOC);
+            
         ?>
         <table>
             <tr>
@@ -36,6 +44,7 @@
                 <th>Melder</th>
                 <th>Gemeld op</th>
                 <th>Overige info</th>
+                <th>Aanpassen</th>
             </tr>
             <?php foreach($meldingen as $melding): ?>
                 <tr>
@@ -56,6 +65,7 @@
                     <td><?php echo $melding['melder']; ?></td>
                     <td><?php echo $melding['gemeld_op']; ?></td>
                     <td><?php echo $melding['overige_info']; ?></td>
+                    <td><?php echo "<a href='edit.php?id={$melding['id']}'>Aanpassen</a>"; ?></td>
                 </tr>
             <?php endforeach; ?>
         </table>

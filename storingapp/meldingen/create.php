@@ -3,7 +3,15 @@
 
 <head>
     <title>StoringApp / Meldingen / Nieuw</title>
-    <?php require_once '../head.php'; ?>
+    <?php require_once '../head.php';
+
+    if(!isset($_SESSION['user_id']))
+    {
+        $msg = "Je moet eerst inloggen!";
+        header("Location: $base_url/login.php?msg=$msg");
+        exit;
+    }
+    ?>
 </head>
 
 <body>
@@ -14,7 +22,7 @@
         <h1>Nieuwe melding</h1>
 
         <form action="../backend/meldingenController.php" method="POST">
-        
+            <input type="hidden" name="action" value="create">
             <div class="form-group">
                 <label for="attractie">Naam attractie:</label>
                 <input type="text" name="attractie" id="attractie" class="form-input">
