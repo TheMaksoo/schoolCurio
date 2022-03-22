@@ -3,8 +3,12 @@
 
 <head>
     <title>StoringApp / Meldingen / Nieuw</title>
-    <?php require_once '../head.php';
+    <?php require_once '../head.php';?>
+</head>
 
+<body>
+
+    <?php require_once '../header.php';
     if(!isset($_SESSION['user_id']))
     {
         $msg = "Je moet eerst inloggen!";
@@ -12,12 +16,7 @@
         exit;
     }
     ?>
-</head>
-
-<body>
-
-    <?php require_once '../header.php'; ?>
-
+    
     <div class="container">
         <h1>Nieuwe melding</h1>
 

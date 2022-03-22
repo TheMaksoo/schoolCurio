@@ -368,3 +368,9 @@ tr:first-child {
 tr:hover {
   background-color:#d3d3d3;
 }
+
+.extrainfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

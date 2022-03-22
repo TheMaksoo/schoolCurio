@@ -3,20 +3,20 @@
 
 <head>
     <title>StoringApp / Meldingen / Aanpassen</title>
-    <?php require_once '../head.php'; 
-    if(!isset($_SESSION['user_id']))
-    {
-        $msg = "Je moet eerst inloggen!";
-        header("Location: $base_url/login.php?msg=$msg");
-        exit;
-    }
-    ?>
+    <?php require_once '../head.php';?>
 </head>
 
 <body>
 
     <?php 
     require_once '../header.php'; 
+    if(!isset($_SESSION['user_id']))
+    {
+        $msg = "Je moet eerst inloggen!";
+        header("Location: $base_url/login.php?msg=$msg");
+        exit;
+    }
+    
     require_once '../backend/conn.php';
     $id = $_GET['id'];
     $query = "SELECT * FROM meldingen WHERE id = :id";

@@ -1,5 +1,5 @@
 <?php
-
+session_start();
 if(!isset($_SESSION['user_id']))
 {
     $msg = "Je moet eerst inloggen!";
@@ -49,7 +49,14 @@ if($actie != "remove")
    }
    
    echo $attractie . " / " . $type . " / " . $capaciteit . " / " . $melder . " / " . $overige_info ;
-   
+   if ($_POST["prioriteit"] == true)
+   {
+      $prioriteit = 1;
+   }
+   else 
+   {
+      $prioriteit = 0;
+   }
 }
 //1. Verbinding
 require_once 'conn.php';
@@ -57,8 +64,8 @@ require_once 'conn.php';
 if ($actie == "create")
 {
    //2. Query
-   $query = "INSERT INTO meldingen(attractie, type, capaciteit, melder, overige_info)
-   VALUES (:attractie, :type, :capaciteit, :melder, :overige_info)";
+   $query = "INSERT INTO meldingen(attractie, type, capaciteit, prioriteit, melder, overige_info)
+   VALUES (:attractie, :type, :capaciteit, :prioriteit, :melder, :overige_info)";
    
    //3. Prepare
    $statement = $conn->prepare($query);
@@ -68,6 +75,7 @@ if ($actie == "create")
        ":attractie" => $attractie,
        ":type" => $type,
        ":capaciteit" => $capaciteit,
+       ":prioriteit" => $prioriteit,
        ":melder" => $melder,
        ":overige_info" => $overige_info
    ]);
@@ -78,7 +86,7 @@ if ($actie == "edit")
 {
    
    //2. Query
-   $query = "UPDATE meldingen SET attractie = :attractie, type = :type, capaciteit = :capaciteit, melder = :melder, overige_info = :overige_info WHERE id = :id";
+   $query = "UPDATE meldingen SET attractie = :attractie, type = :type, capaciteit = :capaciteit, prioriteit = :prioriteit, melder = :melder, overige_info = :overige_info WHERE id = :id";
 
    //3. Prepare
    $statement = $conn->prepare($query);
@@ -88,6 +96,7 @@ if ($actie == "edit")
       ":attractie" => $attractie,
       ":type" => $type,
       ":capaciteit" => $capaciteit,
+      ":prioriteit" => $prioriteit,
       ":melder" => $melder,
       ":overige_info" => $overige_info,
       ":id" => $_POST['id']

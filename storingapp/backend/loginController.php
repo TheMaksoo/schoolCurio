@@ -34,7 +34,7 @@ if($statement->rowCount() < 1)
 if(password_verify($pass, $userinfo["password"]))
 {
     $_SESSION['user_id'] = $userinfo["id"];
-    $_SESSION["user_ name"] = $userinfo["username"];
+    $_SESSION["user_name"] = $userinfo["username"];
     header("Location:../meldingen/index.php");
 }
 //4. Alles alles klopt: stop gebruikersgegevens in de session
