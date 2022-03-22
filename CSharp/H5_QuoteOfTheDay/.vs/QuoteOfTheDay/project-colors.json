@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2b7b906-6a41-4a56-82e1-2feeeb6b609a": {
+      "ProjectGuid": "a2b7b906-6a41-4a56-82e1-2feeeb6b609a",
+      "DisplayName": "QuoteOfTheDay",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

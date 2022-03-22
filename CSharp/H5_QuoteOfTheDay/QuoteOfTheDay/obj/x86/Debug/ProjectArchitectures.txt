@@ -1,0 +1,1 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\school\CSharp\H5_QuoteOfTheDay\QuoteOfTheDay\QuoteOfTheDay.csproj;x86

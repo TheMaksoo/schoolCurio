@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="QuoteOfTheDay.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:QuoteOfTheDay"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <Button x:ConnectionId='2' FontSize="48"
+                HorizontalAlignment="Center"
+                                    >Laad een quote van de dag</Button>
+
+        <ProgressRing x:ConnectionId='3' Height="150"
+                      Width="150"
+                      Visibility="Collapsed"
+                      IsActive="True"
+                      x:Name="loadingIndicator"/>
+
+        <TextBlock TextAlignment="Center"
+                   TextWrapping="WrapWholeWords"
+                   FontSize="16">
+            
+            <Run>Geladen quote bestand:</Run>
+            <Run x:ConnectionId='4' x:Name="quoteFile">Nog geen bestand gekozen...</Run>
+            
+            <LineBreak/>
+            
+            <Run x:ConnectionId='5' x:Name="quoteText"
+                 FontSize="48"
+                 FontStyle="Italic"></Run>
+            
+            <LineBreak/>
+            
+            <Run x:ConnectionId='6' x:Name="quoteAuthor"
+                 FontSize="32"></Run>
+            
+            <Run x:ConnectionId='7' x:Name="quoteLanguage"></Run>
+        </TextBlock>
+    </StackPanel>
+</Page>
+
