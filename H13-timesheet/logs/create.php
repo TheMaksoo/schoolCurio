@@ -8,7 +8,13 @@
 
 <body>
 
-    <?php require_once '../header.php'; ?>
+    <?php require_once '../header.php'; 
+     if(!isset($_SESSION['user_id']))
+     {
+         $msg = "Je moet eerst inloggen!";
+         header("Location: $base_url/login.php?msg=$msg");
+         exit;
+     }?>
     <div class="container">
 
         <h1>TimeSheet / Logs / Nieuw</h1>
@@ -26,10 +32,18 @@
             </div>
             <div class="form-group">
                 <label for="department">Afdeling:</label>
-                <!-- Voeg hier nog een select toe, met deze opties:
-                    personeel, horeca, techniek, inkoop, klantenservice, groen, attracties
-                -->
+                <select name="department" id= "department">
+                    <option value=""> - Kies afdeling - </option>
+                    <option value="personeel"> - personeel - </option>
+                    <option value="horeca"> - horeca - </option>
+                    <option value="techniek"> - techniek - </option>
+                    <option value="inkoop"> - inkoop - </option>
+                    <option value="klantenservice"> - klantenservice - </option>
+                    <option value="groen"> - groen - </option>
+                    <option value="attacties"> - attracties - </option>
+                </select>
             </div>
+
 
             <input type="submit" value="Log opslaan">
 

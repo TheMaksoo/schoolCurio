@@ -207,7 +207,11 @@ th, td{
     align-items: center;
 }
 
-
+.extrainfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 
 
 
