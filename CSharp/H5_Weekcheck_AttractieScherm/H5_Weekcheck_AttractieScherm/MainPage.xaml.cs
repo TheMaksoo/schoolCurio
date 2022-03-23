@@ -52,6 +52,7 @@ namespace H5_Weekcheck_AttractieScherm
                     using (var reader = new StreamReader(stream))
                     {
                         // Lees eerste regel uit het bestand en laat dat zien
+                        string fastpass = "nee";
                         string imageUrl = reader.ReadLine(); 
                         imgAttractie.Source = new BitmapImage(new Uri(imageUrl, UriKind.Absolute)); 
                         spAttractie.Visibility = Visibility.Visible;
@@ -66,6 +67,14 @@ namespace H5_Weekcheck_AttractieScherm
                         tbBeschrijving.Text = reader.ReadLine();
                         
                         tbMinimalelengte.Text = $"Minimale lengte: {reader.ReadLine()}";
+
+                        fastpass = reader.ReadLine();
+                        if (fastpass == "Ja")
+                        {
+                            fastPass.Visibility = Visibility.Visible;
+                            fastpass = "nee";
+                        }
+                        
                         // Iedere keer dat reader.ReadLine() wordt aangeroepen gaat de
                         // lezer (reader) automatisch verder naar de volgende regel
                     }

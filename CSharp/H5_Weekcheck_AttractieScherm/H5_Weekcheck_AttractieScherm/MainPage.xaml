@@ -33,13 +33,14 @@
             <StackPanel>
                 <TextBlock x:Name="tbThemagebied" FocusVisualPrimaryBrush="#FF9E9A9A" FontStyle="Italic"/>
                 <TextBlock x:Name="tbAttractienaam" FontWeight="Bold" FontSize="60" FontFamily="Arial Black"/>
-                <TextBlock x:Name="tbBeschrijving"/>
-                <TextBlock x:Name="tbMinimalelengte" FocusVisualPrimaryBrush="#FF9E9A9A"/>
-                <Border Visibility="Collapsed">
-                    <TextBlock FontFamily="Consolas" FocusVisualPrimaryBrush="#FF9BD3F7">
+                <TextBlock x:Name="tbBeschrijving" Margin="20"/>
+                <TextBlock x:Name="tbMinimalelengte" FocusVisualPrimaryBrush="#FF9E9A9A" Margin="20"/>
+                <Border x:Name="fastPass" Visibility="Collapsed" Background="#FF81D9F7" Margin="20" Padding="30">
+                    <TextBlock FontFamily="Consolas" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="5,25,5,25" Width="170" TextWrapping="Wrap" TextAlignment="Center">
                         <Run>Alleen te bezoeken met</Run>
                         <Run FontSize="24">FastPass</Run>
                     </TextBlock>
+
                 </Border>
             </StackPanel>
             

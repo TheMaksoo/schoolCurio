@@ -18,6 +18,8 @@
       <RootProperty Name="Background" />
       <RootProperty Name="Child" />
       <RootProperty Name="Visibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Padding" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
       <RootProperty Name="Width" />
@@ -31,6 +33,12 @@
       <RootProperty Name="FontWeight" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="FontFamily" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="TextAlignment" />
       <RootProperty Name="Inlines" />
       <RootProperty Name="Text" />
     </RootType>

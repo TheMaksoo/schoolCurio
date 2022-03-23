@@ -13,8 +13,8 @@
             <StackPanel Orientation="Horizontal" Spacing="30" Padding="30">
                 <Image Height="30" Source="http://developerland.studiokaa.co/img/logo-big-v4.png"/>
                 <TextBlock FontSize="20"  Text="Open een .attrinfo"/>
-                <Button x:ConnectionId='8' Content="Button"                     />
-                <TextBlock x:ConnectionId='9' x:Name="tbFileInfo"/>
+                <Button x:ConnectionId='9' Content="Button"                     />
+                <TextBlock x:ConnectionId='10' x:Name="tbFileInfo"/>
 
 
                 <!-- Voeg hier onder elkaar toe:
@@ -33,13 +33,14 @@
             <StackPanel>
                 <TextBlock x:ConnectionId='4' x:Name="tbThemagebied" FocusVisualPrimaryBrush="#FF9E9A9A" FontStyle="Italic"/>
                 <TextBlock x:ConnectionId='5' x:Name="tbAttractienaam" FontWeight="Bold" FontSize="60" FontFamily="Arial Black"/>
-                <TextBlock x:ConnectionId='6' x:Name="tbBeschrijving"/>
-                <TextBlock x:ConnectionId='7' x:Name="tbMinimalelengte" FocusVisualPrimaryBrush="#FF9E9A9A"/>
-                <Border Visibility="Collapsed">
-                    <TextBlock FontFamily="Consolas" FocusVisualPrimaryBrush="#FF9BD3F7">
+                <TextBlock x:ConnectionId='6' x:Name="tbBeschrijving" Margin="20"/>
+                <TextBlock x:ConnectionId='7' x:Name="tbMinimalelengte" FocusVisualPrimaryBrush="#FF9E9A9A" Margin="20"/>
+                <Border x:ConnectionId='8' x:Name="fastPass" Visibility="Collapsed" Background="#FF81D9F7" Margin="20" Padding="30">
+                    <TextBlock FontFamily="Consolas" HorizontalAlignment="Center" VerticalAlignment="Center"  Margin="5,25,5,25" Width="170" TextWrapping="Wrap" TextAlignment="Center">
                         <Run>Alleen te bezoeken met</Run>
                         <Run FontSize="24">FastPass</Run>
                     </TextBlock>
+
                 </Border>
             </StackPanel>
             
