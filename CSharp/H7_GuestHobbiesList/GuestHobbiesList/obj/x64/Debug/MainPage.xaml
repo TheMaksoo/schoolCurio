@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="GuestHobbiesList.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GuestHobbiesList"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <!-- Onze grid heeft 3 regels (en standaard 1 kolom) -->
+            <RowDefinition Height="Auto"/>
+            <!-- Regels met Auto als hoogte worden zo groot als hun inhoud -->
+            <RowDefinition Height="Auto"/>
+            <!-- Een hoogte van * geeft aan dat deze regel moet groeien om alle mogelijke ruimte in te nemen -->
+            <!-- We kunnen de ListView op deze derde regel zetten door het een Grid.Row="2" attribuut te geven -->
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock x:ConnectionId='2' FontSize="32"
+                   x:Name="fileStatus">
+            Kies een bestand...
+        </TextBlock>
+        
+        <Button x:ConnectionId='3' FontSize="48"
+                Grid.Row="1"
+                HorizontalAlignment="Stretch"
+                                    >Laad alle data uit het csv-bestand</Button>
+
+        <ListView x:ConnectionId='4' x:Name="guestHobbyList"
+                  Grid.Row="2">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal"
+                                Spacing="50">
+                        <TextBlock FontSize="32"
+                                   FontWeight="Bold"
+                                   Text="Leeftijd komt hier"/>
+                        <TextBlock FontSize="32"
+                                   Text="Hobby komt hier"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>
+
