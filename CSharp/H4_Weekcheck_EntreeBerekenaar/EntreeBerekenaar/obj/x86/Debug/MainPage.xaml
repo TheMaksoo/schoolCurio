@@ -1,0 +1,91 @@
+﻿<Page
+    x:Class="EntreeBerekenaar.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EntreeBerekenaar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid RequestedTheme="Dark">
+        <StackPanel Margin="50">
+            <TextBlock FontSize="36px" >
+                <Run Text="Entree" />
+                <Run FontWeight="Bold" Text="Berekenaar" />
+            </TextBlock>
+            <TextBlock Text="Kassateam DeveloperLand" FontStyle="Italic" />
+            <StackPanel Margin="0,0,0,0">
+                <TextBlock Text="Aantal kinderen:" Margin="0,20,0,0" />
+                <TextBox x:ConnectionId='9' x:Name="tbAantalKinderen"  Width="160" HorizontalAlignment="Left" Text="0" />
+            </StackPanel>
+            <TextBlock Text="Aantal volwassenen:" RenderTransformOrigin="0.5,0.5" >
+                <TextBlock.RenderTransform>
+                    <CompositeTransform TranslateY="20"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <TextBox x:ConnectionId='2' x:Name="tbAantalVolwassenen" RenderTransformOrigin="0.5,0.5"  Width="160" HorizontalAlignment="Left" Text="0" >
+                <TextBox.RenderTransform>
+                    <CompositeTransform TranslateY="20"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <TextBlock Text="Arrangement:" RenderTransformOrigin="0.5,0.5" >
+                <TextBlock.RenderTransform>
+                    <CompositeTransform TranslateY="40"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <ComboBox x:ConnectionId='3' x:Name="cbarrangement" Width="160" RenderTransformOrigin="0.5,0.5" SelectedIndex="0">
+                <ComboBox.RenderTransform>
+                    <CompositeTransform TranslateY="40"/>
+                </ComboBox.RenderTransform>
+                <ComboBoxItem Content="Standaard"/>
+                <ComboBoxItem Content="Luxe"/>
+            </ComboBox>
+            <TextBlock Text="Parkeerkaart Aanschaffen:" RenderTransformOrigin="0.5,0.5" >
+                <TextBlock.RenderTransform>
+                    <CompositeTransform TranslateY="60"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <CheckBox x:ConnectionId='4' x:Name="cbParkeerkaart" Content="" RenderTransformOrigin="0.5,0.5">
+                <CheckBox.RenderTransform>
+                    <CompositeTransform TranslateY="60" TranslateX="0"/>
+                </CheckBox.RenderTransform>
+            </CheckBox>
+            <TextBlock Text="Kortingspercentage:" RenderTransformOrigin="0.5,0.5" >
+                <TextBlock.RenderTransform>
+                    <CompositeTransform TranslateY="78"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <TextBox x:ConnectionId='5' x:Name="tbAantalKortingPercentage"  Width="160" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Text="0" >
+                <TextBox.RenderTransform>
+                    <CompositeTransform TranslateY="78"/>
+                </TextBox.RenderTransform>
+            </TextBox>
+            <Button x:ConnectionId='6' Content="uitrekenen"                      RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <CompositeTransform TranslateY="100"/>
+                </Button.RenderTransform>
+            </Button>
+            <TextBlock TextWrapping="Wrap" Text="Te betalen" RenderTransformOrigin="0.5,0.5" FontStyle="Italic" FontWeight="Bold">
+                <TextBlock.RenderTransform>
+                    <CompositeTransform TranslateY="130"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <TextBlock x:ConnectionId='7' x:Name="tbBedrag" TextWrapping="Wrap" Text="�" RenderTransformOrigin="0.5,0.5" FontStyle="Normal" FontWeight="Normal" IsTextSelectionEnabled="True">
+
+                <TextBlock.RenderTransform>
+                    <CompositeTransform TranslateY="130"/>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Border x:ConnectionId='8' x:Name="border" BorderBrush="red" BorderThickness="3" Height="75" RenderTransformOrigin="0.5,0.5" Width="472" HorizontalAlignment="Left" Margin="-15,0,0,0">
+                <Border.RenderTransform>
+                    <CompositeTransform TranslateY="80"/>
+                </Border.RenderTransform>
+                <Border.Projection>
+                    <PlaneProjection RotationY="0"/>
+                </Border.Projection>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>
+
